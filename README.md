@@ -3,7 +3,7 @@ Hallo,
 Ik ben Alina,een gemotiveerde developer met een sterke interesse in de MERN-stack (MongoDB, Express.js, React en Node.js).
 Tijdens mijn bootcamp heb ik samen met een team een volledige Coffee App gebouwd. In dit project gebruikten we onder andere React, Node.js, Express, MongoDB en CSS.
 
-## Daarnaast heb ik zelfstandig meerdere projecten gerealiseerd, waaronder:
+ Daarnaast heb ik zelfstandig meerdere projecten gerealiseerd, waaronder:
 
 ## Popcorn Movie Database (JavaScript + Bootstrap)
 
